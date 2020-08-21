@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "SET NODE_ENV=dev && node app.js",
     "test": "mocha --timeout 20000"
   },
   "author": "",
